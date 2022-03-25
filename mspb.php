@@ -1,6 +1,6 @@
 <?php
 
-// By Afrizal F.A - RND ICWR
+// By Afrizal F.A - R&D ICWR
 // Reference & Recode From https://devnote.in/export-mysql-database-to-sql-file-using-php/
 
 class MySQLBackupper
