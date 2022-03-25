@@ -242,7 +242,7 @@ if (!empty($_POST['hostname']) && !empty($_POST['username']) && !empty($_POST['p
 
         <div style="margin-bottom: 10px;">
         
-            <b>Copyright &copy;<?php echo date("Y"); ?> - incrustwerush.org</b>
+            <b>Copyright &copy;2022 - incrustwerush.org</b>
 
         </div>
 
